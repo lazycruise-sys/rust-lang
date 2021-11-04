@@ -7,7 +7,9 @@ This repo is dedicated to learning the system language, Rust, and all the featur
 * Variables
 * Data Types
 
-## Learing Goals
+## Learning Goals
+* Write a code that calculates the Modular multiplicative inverse of a number using the Euclidean Algorithm.
+* Build a CLI tool (for what? don't know yet)
 
 ## Tracking Progress
 I will be writing articles that detail the different Rust learnings at my [Medium](https://lazycruise.medium.com).
