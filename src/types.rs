@@ -18,7 +18,7 @@ Arrays
 
 pub fn run() {
     // Add explicit type
-    let _y: i64 = 4521312121;
+    let _y: i64 = 4521312121; // the underscore before the variable name lets Rust know that there is no intention of usage
 
     // Find max size
     println!("Max i32: {}", std::i32::MAX);
@@ -31,7 +31,7 @@ pub fn run() {
     let is_greater: bool = 10 > 5;
 
     // Characters
-    // characters use the single quote literal and allow only unicodes
+    // Characters use the single quote literal and allow only unicodes
     let a1 = 'a';
     let face = '\u{1F600}'; // using the emoji unicode
     
