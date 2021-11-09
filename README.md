@@ -28,13 +28,18 @@ This repo is dedicated to learning the system language, Rust, and all the featur
 
 ### Math Command Line Tool
 This CLI tool makes use of cargo run to execute different mathematical operations (simple ones for now). Such as add, substract, multiply.
-Currently, working on divide
+Currently, working on the divide command
 
-An Example 'add' Code is below;
+An Example 'add' command is below;
 
 ```shell
 cargo run add 1 2 3 4 5
 ```
+
+Outputs:
+```
+15
+````
 
 ## Tracking Progress
 I will be writing articles that detail the different Rust learnings at my [Medium](https://lazycruise.medium.com).
