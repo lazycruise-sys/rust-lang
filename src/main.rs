@@ -9,9 +9,11 @@
 // mod loops;
 // mod functions;
 // mod pointers;
-mod structs;
+// mod structs;
+// mod enums;
+mod math_cli;
 
 fn main() {
     // module_name.run();
-    structs::run();
+    math_cli::run();
 }
