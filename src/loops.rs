@@ -1,7 +1,7 @@
 pub fn run() {
     let mut count = 0;
 
-    // Infinit Loop
+    // Infinite Loop
     loop {
         count += 1;
         println!("Number: {}", count);
